@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+growth_log.jsonl
+.venv/
